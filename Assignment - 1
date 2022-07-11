@@ -45,3 +45,42 @@ return 0;
 
 5. WAP to calculate the length of String using printf function.
 
+
+6. WAP to print the name of the user in double quotes.
+
+#include<stdio.h>
+int main()
+{
+printf("\"Hello, Sikindar Kumar\"");
+return 0;
+}
+
+
+7. WAP to print “%d” on the screen.
+
+#include<stdio.h>
+int main()
+{
+printf("%%d");
+return 0;
+}
+
+
+8. WAP to print “\n” on the screen.
+
+#include<stdio.h>
+int main()
+{
+printf("\\n");
+return 0;
+}
+
+9. WAP to print “\\” on the screen.
+
+#include<stdio.h>
+int main()
+{
+printf("\\\\");
+return 0;
+}
+
