@@ -1,1 +1,47 @@
+1. Write a program to print Hello Students on the screen.
+
+#include<stdio.h>
+int main()
+{
+printf("Hello Students");
+return 0;
+}
+
+
+2. Write a program to print Hello in the first line and Students in the second line.
+
+#include<stdio.h>
+int main()
+{
+printf("Hello\nStudents");
+return 0;
+}
+
+
+3. Write a program to print “MySirG” on the screen. (Remember to print in double quotes)
+
+#include<stdio.h>
+int main()
+{
+printf("\"MySirG\"");
+return 0;
+}
+
+
+4. WAP to find the area of the circle. Take radius of circle from user as input and print the
+result in below given format.
+
+#include<stdio.h>
+int main()
+{
+    float A,R;
+printf("Enter Radius of the circle :");
+scanf("%f",&R);
+A=2*3.14*R*R;
+printf("Area of the circle =%f",A);
+return 0;
+}
+
+
+5. WAP to calculate the length of String using printf function.
 
